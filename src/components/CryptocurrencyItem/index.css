@@ -1,0 +1,21 @@
+/* Write your CSS code here */
+.table-items {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  align-items: center;
+}
+.img-title {
+  padding: 10px;
+  color: #ffffff;
+}
+.list-images {
+  width: 40px;
+  height: 40px;
+}
+.usd-euro-container {
+  color: #ffffff;
+  display: flex;
+  justify-content: space-evenly;
+  width: 170px;
+}
